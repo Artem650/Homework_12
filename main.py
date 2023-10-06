@@ -95,4 +95,4 @@ while True:
         break
 
     else:
-        print("Unknown option. Please choose another.")
+        print("Unknown option. Please choose another option.")
